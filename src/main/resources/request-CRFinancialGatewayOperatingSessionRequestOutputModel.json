@@ -1,0 +1,18 @@
+{
+  "requestRecordReference" : "RRR750063",
+  "financialGatewayOperatingSessionInstanceRecord" : {
+    "financialGatewayServiceSessionIssueRecord" : {
+      "messageReference" : "754192",
+      "employeeBusinessUnitReference" : "748920",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueRecord" : {},
+      "productionIssueDescription" : "productionIssueDescription"
+    }
+  },
+  "financialGatewayOperatingSessionRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "financialGatewayOperatingSessionRequestActionTaskReference" : "FGOSRATR706141"
+}

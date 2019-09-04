@@ -1,0 +1,27 @@
+{
+  "inboundRetrieveActionTaskReference" : "IRATR789552",
+  "inboundRetrieveActionTaskRecord" : {},
+  "inboundInstanceReport" : {
+    "inboundInstanceReportRecord" : {},
+    "inboundInstanceReport" : {},
+    "inboundInstanceReportType" : "inboundInstanceReportType",
+    "inboundInstanceReportParameters" : "inboundInstanceReportParameters"
+  },
+  "financialGatewayOperatingSessionInstanceRecord" : {
+    "financialGatewayServiceSessionStatistics" : "financialGatewayServiceSessionStatistics",
+    "financialGatewayServiceType" : "financialGatewayServiceType"
+  },
+  "inboundRetrieveActionResponse" : "inboundRetrieveActionResponse",
+  "inboundInstanceAnalysis" : {
+    "inboundInstanceAnalysisReport" : {},
+    "inboundInstanceAnalysisRecord" : {},
+    "inboundInstanceAnalysisParameters" : "inboundInstanceAnalysisParameters",
+    "inboundInstanceAnalysisReportType" : "inboundInstanceAnalysisReportType"
+  },
+  "inboundInstanceRecord" : {
+    "financialGatewayInboundMessageRecord" : {},
+    "financialGatewayInboundMessageReceiver" : "financialGatewayInboundMessageReceiver",
+    "financialGatewayInboundMessageType" : "financialGatewayInboundMessageType",
+    "financialGatewayInboundMessageStatus" : "financialGatewayInboundMessageStatus"
+  }
+}

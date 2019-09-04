@@ -1,0 +1,32 @@
+{
+  "financialGatewayOperatingSessionInstanceReportRecord" : {
+    "financialGatewayOperatingSessionInstanceReportData" : "financialGatewayOperatingSessionInstanceReportData",
+    "financialGatewayOperatingSessionInstanceReportType" : "financialGatewayOperatingSessionInstanceReportType",
+    "financialGatewayOperatingSessionInstanceReport" : {}
+  },
+  "financialGatewayOperatingSessionInstanceAnalysis" : {
+    "financialGatewayOperatingSessionInstanceAnalysisReport" : {},
+    "financialGatewayOperatingSessionInstanceAnalysisReportType" : "financialGatewayOperatingSessionInstanceAnalysisReportType",
+    "financialGatewayOperatingSessionInstanceAnalysisData" : "financialGatewayOperatingSessionInstanceAnalysisData"
+  },
+  "financialGatewayOperatingSessionInstanceRecord" : {
+    "financialGatewayServiceSessionReportType" : "financialGatewayServiceSessionReportType",
+    "financialGatewayServiceSessionStatistics" : "financialGatewayServiceSessionStatistics",
+    "financialGatewayServiceType" : "financialGatewayServiceType",
+    "financialGatewayServiceSessionDate" : "09-22-2018",
+    "financialGatewayServiceSessionIssueRecord" : {
+      "messageReference" : "785892",
+      "employeeBusinessUnitReference" : "784338",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueRecord" : {},
+      "productionIssueDescription" : "productionIssueDescription"
+    },
+    "financialGatewayServiceSessionReport" : {}
+  },
+  "financialGatewayOperatingSessionRetrieveActionTaskReference" : "FGOSRATR768562",
+  "financialGatewayOperatingSessionRetrieveActionTaskRecord" : {},
+  "financialGatewayOperatingSessionRetrieveActionResponse" : "financialGatewayOperatingSessionRetrieveActionResponse"
+}

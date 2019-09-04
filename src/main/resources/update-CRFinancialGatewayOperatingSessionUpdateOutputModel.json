@@ -1,0 +1,22 @@
+{
+  "financialGatewayOperatingSessionUpdateActionTaskReference" : "FGOSUATR752490",
+  "financialGatewayOperatingSessionUpdateActionTaskRecord" : {},
+  "financialGatewayOperatingSessionInstanceRecord" : {
+    "financialGatewayServiceSessionReportType" : "financialGatewayServiceSessionReportType",
+    "financialGatewayServiceSessionStatistics" : "financialGatewayServiceSessionStatistics",
+    "financialGatewayServiceType" : "financialGatewayServiceType",
+    "financialGatewayServiceSessionDate" : "09-22-2018",
+    "financialGatewayServiceSessionIssueRecord" : {
+      "messageReference" : "722007",
+      "employeeBusinessUnitReference" : "711204",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueRecord" : {},
+      "productionIssueDescription" : "productionIssueDescription"
+    },
+    "financialGatewayServiceSessionReport" : {}
+  },
+  "updateResponseRecord" : {}
+}

@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRFinancialGatewayOperatingSessionRequestOutputModelFinancialGatewayOperatingSessionInstanceRecordFinancialGatewayServiceSessionIssueRecord;
+
+import javax.validation.Valid;
+  
+/**
+ * CRFinancialGatewayOperatingSessionRequestOutputModelFinancialGatewayOperatingSessionInstanceRecord
+ */
+public class CRFinancialGatewayOperatingSessionRequestOutputModelFinancialGatewayOperatingSessionInstanceRecord   {
+  private CRFinancialGatewayOperatingSessionRequestOutputModelFinancialGatewayOperatingSessionInstanceRecordFinancialGatewayServiceSessionIssueRecord financialGatewayServiceSessionIssueRecord = null;
+
+
+  /**
+   * Get financialGatewayServiceSessionIssueRecord
+   * @return financialGatewayServiceSessionIssueRecord
+  **/
+
+  public CRFinancialGatewayOperatingSessionRequestOutputModelFinancialGatewayOperatingSessionInstanceRecordFinancialGatewayServiceSessionIssueRecord getFinancialGatewayServiceSessionIssueRecord() {
+    return financialGatewayServiceSessionIssueRecord;
+  }
+
+  public void setFinancialGatewayServiceSessionIssueRecord(CRFinancialGatewayOperatingSessionRequestOutputModelFinancialGatewayOperatingSessionInstanceRecordFinancialGatewayServiceSessionIssueRecord financialGatewayServiceSessionIssueRecord) {
+    this.financialGatewayServiceSessionIssueRecord = financialGatewayServiceSessionIssueRecord;
+  }
+
+
+}
+

@@ -1,0 +1,12 @@
+{
+  "inboundInitiateActionRecord" : {},
+  "financialGatewayOperatingSessionInstanceRecord" : {
+    "financialGatewayServiceSessionStatistics" : "financialGatewayServiceSessionStatistics"
+  },
+  "inboundInstanceStatus" : "inboundInstanceStatus",
+  "inboundInitiateActionReference" : "IIAR732054",
+  "inboundInstanceReference" : "IIR785116",
+  "inboundInstanceRecord" : {
+    "financialGatewayInboundMessageStatus" : "financialGatewayInboundMessageStatus"
+  }
+}

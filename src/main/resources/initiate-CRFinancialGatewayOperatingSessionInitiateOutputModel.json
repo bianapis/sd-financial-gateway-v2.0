@@ -1,0 +1,18 @@
+{
+  "financialGatewayOperatingSessionInstanceReference" : "FGOSIR715137",
+  "financialGatewayOperatingSessionInitiateActionReference" : "FGOSIAR714329",
+  "financialGatewayOperatingSessionInstanceRecord" : {
+    "financialGatewayServiceSessionReportType" : "financialGatewayServiceSessionReportType",
+    "financialGatewayServiceSessionStatistics" : "financialGatewayServiceSessionStatistics",
+    "financialGatewayServiceSessionDate" : "09-22-2018",
+    "financialGatewayServiceSessionIssueRecord" : {
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueRecord" : {}
+    },
+    "financialGatewayServiceSessionReport" : {}
+  },
+  "financialGatewayOperatingSessionInitiateActionRecord" : {},
+  "financialGatewayOperatingSessionInstanceStatus" : "financialGatewayOperatingSessionInstanceStatus"
+}
